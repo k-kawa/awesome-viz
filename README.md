@@ -1,5 +1,5 @@
 # awesome-viz
-Curate AWESOME visualization tools
+Curated AWESOME visualization tools
 
 ## Dashboard
 - [Redash](https://github.com/getredash/redash) Make Your Company Data Driven. Connect to any data source, easily visualize and share your data
