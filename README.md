@@ -11,6 +11,7 @@ Curated list of AWESOME visualization tools
 - [metacat](https://github.com/Netflix/metacat) [Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
 - [WhereHows](https://github.com/linkedin/WhereHows) Data Discovery and Lineage for Big Data Ecosystem
 - [Atlas](https://atlas.apache.org/) Data Governance and Metadata framework for Hadoop
+- [Alation](https://alation.com/) Alation Data Catalog: A Single Source of Reference
 
 ## How to contribute
 Send me a pull request. Any pull request is welcome!
